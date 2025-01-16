@@ -15,7 +15,7 @@ const Tester = () => {
     setText("Yes, it's essential to include a / route in your React Router setup if you want to handle the root path of your application. Without a route for /, React Router cannot determine what component to render when the user visits the root URL of your app, leading to the No routes matched location /  error.");
     setTime(60);
   }, []);
-  //contribute
+  //contribute1
   // useEffect(() => {
   //   setInterval(() => {
   //     if (time > 0) {

@@ -1,3 +1,9 @@
+span.char.success{
+  color:#D1D0C5;
+}
+span.char.error{
+  color:#7E2A33;
+}
 .text-body{
   padding:1em;
   color:#646669;
@@ -8,9 +14,6 @@
   padding-top:1em;
   padding-left:1em;
   margin-top:0.3em;
-}
-.char{
-  cursor:text;
 }
 .txt-input{
   opacity:0;

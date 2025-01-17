@@ -9,3 +9,14 @@
   padding-left:1em;
   margin-top:0.3em;
 }
+.char{
+  cursor:text;
+}
+.txt-input{
+  opacity:0;
+  z-index:-999;
+  position:absolute;
+}
+span.active{
+border-left: 2px solid #E2B714;
+}
